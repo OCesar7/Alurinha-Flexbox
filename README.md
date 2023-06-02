@@ -1,1 +1,1 @@
-Aula da Alura sobre Flexbox.
+Aula de Flexbox - Alura
